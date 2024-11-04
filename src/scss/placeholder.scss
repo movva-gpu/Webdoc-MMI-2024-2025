@@ -1,0 +1,8 @@
+a {
+  color: blue;
+  transition: color 333ms ease;
+
+  &:hover {
+    color: red;
+  }
+}
